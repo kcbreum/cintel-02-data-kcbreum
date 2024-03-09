@@ -1,3 +1,7 @@
 pandas
 plotly
 palmerpenguins
+shinywidgets
+shiny.express
+shiny
+seaborn
